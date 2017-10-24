@@ -1,0 +1,4 @@
+Tricky things:
+
+1) getHostByName isn't nearly as simple to use in C as it is in Python
+2) Don't send the null terminators with the strings
